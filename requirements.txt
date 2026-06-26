@@ -1,0 +1,10 @@
+pydantic
+python-dotenv
+pytest
+streamlit
+langchain-core
+langchain-xai
+langgraph
+markitdown[pdf]
+pdfplumber
+PyMuPDF
